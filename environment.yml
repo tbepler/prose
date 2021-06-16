@@ -1,0 +1,11 @@
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - h5py
+  - numpy
+  - pandas
+  - pillow
+  - pytorch=1.8.1
+  - scikit-learn
+  - scipy

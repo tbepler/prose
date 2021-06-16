@@ -1,0 +1,6 @@
+numpy>=1.19.2
+pandas>=1.2.1
+Pillow>=8.1.0
+scipy>=1.6.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu
